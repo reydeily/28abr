@@ -1,0 +1,16 @@
+table tr th, table tr th{
+    border: 0.15rem solid red;
+    padding: 2rem;
+}
+table{
+    border-collapse: collapse;
+}
+
+table tr td, table tr td{
+    border: 0.15rem solid blue;
+    padding: 2rem;
+}
+
+table{
+    border-collapse: collapse;
+}
